@@ -25,7 +25,7 @@ const NavigationDots = ({ active }) => {
                     className="app__navigation-dot"
                     style={active === item ? { backgroundColor: '#313BAC' } : {}}
                 >
-                    <span className="visually-hidden">Navigate to {item}</span>
+                    {/* <span className="visually-hidden">Navigate to {item}</span> */}
                 </a>
             ))}
         </div>
