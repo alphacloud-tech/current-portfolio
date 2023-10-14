@@ -45,6 +45,7 @@ import mylogo1 from '../assets/mylogo1.png';
 import bold1 from '../assets/bold1.jpg';
 import bold2 from '../assets/bold2.png';
 import cat from '../assets/cat.png';
+import result from '../assets/result.png';
 
 const images = {
   email,
@@ -90,7 +91,8 @@ const images = {
   django,
   laravel,
   sql,
-  cat
+  cat,
+  result
 };
 
 export default images
